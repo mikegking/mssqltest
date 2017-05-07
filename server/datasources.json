@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 1433,
+    "url": "",
+    "database": "MsSqlTest",
+    "password": "password",
+    "name": "MsSqlTest",
+    "user": "mssqltest",
+    "connector": "mssql"
+  }
+}
